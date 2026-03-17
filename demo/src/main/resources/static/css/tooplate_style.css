@@ -15,8 +15,8 @@ body {
 	background-position: top	
 }
 
-.homepage { background-image: url(images/tooplate_body.jpg); }
-.subpage { background-image: url(images/tooplate_body_subpage.jpg) }
+.homepage { background-image: url(/images/tooplate_body.jpg); }
+.subpage { background-image: url(/images/tooplate_body_subpage.jpg) }
 
 a, a:link, a:visited { color: #e98236; font-weight: bold; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -50,7 +50,7 @@ a.more {
 	text-align: center; 
 	color: #000; 
 	font-weight: bold; 
-	background: url(images/tooplate_button.png); 
+	background: url(/images/tooplate_button.png); 
 }
 
 a.more:hover { 
@@ -88,7 +88,7 @@ a.more:hover {
 	color:#e98236; 
 	margin: 0; 
 	padding: 0 0 0 20px; 
-	background: url(images/tooplate_list.jpg) no-repeat scroll 0 7px;  
+	background: url(/images/tooplate_list.jpg) no-repeat scroll 0 7px;  
 }
 
 .tooplate_list li a { 
@@ -126,7 +126,7 @@ a.more:hover {
 	height: 48px; 
 	color: #fff; 
 	text-indent: -10000px; 
-	background: url(images/tooplate_logo.png); 
+	background: url(/images/tooplate_logo.png); 
 }
 
 /* menu */
@@ -134,7 +134,7 @@ a.more:hover {
 	clear: both;
 	width: 960px;
 	height: 50px;
-	background: url(images/tooplate_menu.jpg)
+	background: url(/images/tooplate_menu.jpg)
 }
 
 #tooplate_menu ul {
@@ -153,7 +153,7 @@ a.more:hover {
 	margin: 0;
 	display: inline;
 	text-align: center;
-	background: url(images/tooplate_menu_divider.png) no-repeat right center
+	background: url(/images/tooplate_menu_divider.png) no-repeat right center
 }
 
 #tooplate_menu ul li a {
@@ -169,14 +169,14 @@ a.more:hover {
 	font-weight: normal;
 	outline: none;
 	border: none;
-	background: url(images/tooplate_menu.png) no-repeat bottom center
+	background: url(/images/tooplate_menu.png) no-repeat bottom center
 }
 
 #tooplate_menu ul li a:hover, #tooplate_menu ul li .current { 
 	color: #fff; 
 	height: 38px; 
 	padding: 5px 0 0 0; 
-	background: url(images/tooplate_menu_hover.png) bottom center no-repeat; 
+	background: url(/images/tooplate_menu_hover.png) bottom center no-repeat; 
 }
 
 #tooplate_menu ul .last { 
@@ -188,7 +188,7 @@ a.more:hover {
 	margin: 12px 0 0 0; 
 	width: 170px; 
 	height: 27px; 
-	background: url(images/tooplate_search.png) no-repeat; 
+	background: url(/images/tooplate_search.png) no-repeat; 
 }
 
 #search_box form { 
@@ -234,7 +234,7 @@ a.more:hover {
 	height: 280px;
 	padding: 10px 0;
 	margin-bottom: 5px;
-	background: url(images/tooplate_middle.jpg) left top no-repeat
+	background: url(/images/tooplate_middle.jpg) left top no-repeat
 }
 
 #intro { 
@@ -262,7 +262,7 @@ a.more:hover {
 	display: block; 
 	width: 170px; 
 	height: 40px; 
-	background: url(images/tooplate_learn_more.jpg) no-repeat; 
+	background: url(/images/tooplate_learn_more.jpg) no-repeat; 
 }
 
 #tooplate_middle_subpage { 
@@ -270,7 +270,7 @@ a.more:hover {
 	width: 960px;
 	height: 130px;
 	padding: 25px 0;
-	background: url(images/tooplate_middle.png) no-repeat
+	background: url(/images/tooplate_middle.png) no-repeat
 }
 
 #tooplate_middle_subpage h2 { 
@@ -512,7 +512,7 @@ a.more:hover {
 	padding: 15px 0;
 	text-align: center;
 	color: #666;
-	background:  url(images/tooplate_footer.jpg) top center no-repeat
+	background:  url(/images/tooplate_footer.jpg) top center no-repeat
 }
 
 #tooplate_cr a { 
